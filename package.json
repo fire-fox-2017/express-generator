@@ -1,0 +1,22 @@
+{
+  "name": "express-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fire-fox-2017/express-generator.git"
+  },
+  "author": "zulfikarannur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fire-fox-2017/express-generator/issues"
+  },
+  "homepage": "https://github.com/fire-fox-2017/express-generator#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
