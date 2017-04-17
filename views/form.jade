@@ -1,0 +1,10 @@
+extends layout
+
+block content
+    h1= judul
+    form(action="/users", method="post")
+        div.input
+            input(type="text", name="kata")
+        div.actions
+            input(type="submit", value="Submit")
+    h2="Hasil: "+output
